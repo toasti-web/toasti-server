@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "no_event_placeholders",
+  "info": {
+    "singularName": "no-event-placeholder",
+    "pluralName": "no-event-placeholders",
+    "displayName": "NoEventPlaceholder"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "non_month_view_placeholders",
+  "info": {
+    "singularName": "non-month-view-placeholder",
+    "pluralName": "non-month-view-placeholders",
+    "displayName": "NonMonthViewPlaceholder"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
