@@ -38,7 +38,7 @@
         }
       }
     },
-    "description": {
+    "abstract": {
       "type": "text",
       "required": true,
       "pluginOptions": {
